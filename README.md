@@ -48,7 +48,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/ClarsonIrisCamera.git
+git clone https://github.com/RahulV8694/ClarsonIrisCamera.git
 cd ClarsonIrisCamera
 Open in Android Studio
 
