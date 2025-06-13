@@ -1,4 +1,7 @@
 🌟 ClarsonIrisCamera
+
+
+
 ClarsonIrisCamera is an Android application built using Kotlin that enables users to capture eye images using their mobile camera, extract the iris region using a pre-trained machine learning model, and render the extracted iris in high-definition. This project is part of an ongoing research initiative at Clarkson University focused on biometric authentication.
 
 
